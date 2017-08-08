@@ -5,7 +5,7 @@
     "MajorVersion": 0,
     "MinorVersion": 0,
     "PatchVersion": 2,
-    "Build": null
+    "Build": "pathoschild-update"
   },
   "Description": "Rebalances artisanal item prices with optional configuration.",
   "UniqueID": "ThatNorthernMonkey.AdjustArtisanPrices",
